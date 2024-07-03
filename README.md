@@ -13,10 +13,18 @@ most of Doku RPG: Faithful Continuation is used within this pack.
 the original plan for this continuation was to avoid using anything made for Gerudoku and parts of Dokucraft, however I realized that I would never finish the pack if I didn't use a few parts from them, the original version of Doku's RPG didn't have items or mobs and the task of making nearly 14 years worth of textures all at once was a little too daunting, so I've tried to use as few as possible while updating the pack through each version of minecraft and trying to maintain a consistent style.
 
 
-**Dowload location**
+**Dowload Location**
 ------------------------------
 
 https://modrinth.com/resourcepack/dokus-rpg
+
+
+**Alternate Textures & Add-on files**
+------------------------------
+
+[Doku's RPG Alternate Texture Collection.zip](https://github.com/user-attachments/files/16077384/Doku.s.RPG.Alternate.Texture.Collection.zip)
+
+[Doku's RPG Classic Ore Blocks Add-on.zip](https://github.com/user-attachments/files/16077387/Doku.s.RPG.Classic.Ore.Blocks.Add-on.zip)
 
 
 **Other Information**
