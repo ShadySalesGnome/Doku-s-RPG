@@ -22,9 +22,9 @@ https://modrinth.com/resourcepack/dokus-rpg
 **Alternate Textures & Add-on files**
 ------------------------------
 
-[Doku's RPG Alternate Texture Collection.zip](https://github.com/user-attachments/files/16077384/Doku.s.RPG.Alternate.Texture.Collection.zip)
+[Doku's RPG Alternate Texture Collection.zip](https://www.mediafire.com/file/4f5xuxrejrhy27p/Doku%2527s_RPG_Alternate_Texture_Collection.zip/file)
 
-[Doku's RPG Classic Ore Blocks Add-on.zip](https://github.com/user-attachments/files/16077387/Doku.s.RPG.Classic.Ore.Blocks.Add-on.zip)
+[Doku's RPG Alternate Ore Blocks Add-on.zip](https://www.mediafire.com/file/wc9g31nctok600a/Doku%2527s_RPG_Alternate_Ore_Blocks_Add-on.zip/file)
 
 
 **Other Information**
